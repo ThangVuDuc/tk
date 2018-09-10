@@ -1,28 +1,37 @@
-.App {
-  text-align: center;
+.img-logo {
+  width: 100%;
+  margin-top: 3px
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.food-list {
+  margin-left: 30px
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+.orderlist {
+  margin-top: 40px
 }
 
-.App-title {
-  font-size: 1.5em;
+
+.banner {
+  margin-top: 100px;
 }
 
-.App-intro {
-  font-size: large;
+.banner img {
+  margin: auto;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+Footer {
+background-color:#edf0f7;
+}
+
+.logo {
+  width: 35%;
+}
+
+.logo1 {
+  width: 65%;
+}
+
+.footer-copyright {
+  background-color: white;
 }
